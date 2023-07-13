@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning **React Query and React Router.**
 - 📄 Know about my experiences: [Personal CV](https://drive.google.com/file/d/1LLWQ8t9Ow30wMobHlfN4qAdzi3bgRLsD/view?usp=drive_link)
 
-<h2>Stats and Languages </h2>
+<h4>Stats and Languages </h4>
 
 <div>
   <span align="right"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=git-darkmoon&&theme=midnight-purple&hide_border=true&show_icons=true&locale=en&layout=compact" alt="git-darkmoon" /></span>
