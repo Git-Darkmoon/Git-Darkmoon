@@ -13,7 +13,7 @@
 <h2>Github Stats</h2>
 <div>
 <span><img align="center" src="https://streak-stats.demolab.com?user=Git-Darkmoon&theme=midnight-purple&hide_border=true&card_width=500)](https://git.io/streak-stats" alt="git-darkmoon" /></span>
-<span><img align="center" src="https://github-readme-stats.vercel.app/api?username=git-darkmoon&hide_border=true&theme=midnight-purple&show_icons=true" alt="git-darkmoon" /></span>
+
   
 </div>
 <!-- ![Git-Darkmoon's github stats](https://github-readme-stats.vercel.app/api?username=git-darkmoon&theme=midnight-purple&show_icons=true) -->
