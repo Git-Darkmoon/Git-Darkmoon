@@ -1,16 +1,19 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Nicolas</h1>
 
-<!--
-**Git-Darkmoon/Git-Darkmoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=24&pause=1000&color=9F6EF7&center=true&width=475&lines=React+Web+Developer;Always+Learning+New+Things;%2B4+Years+of+Coding;And+a+lot+more+%3A)" alt="Typing SVG" /></a>
+</p>
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **React Query and React Router.**
+- 📄 Know about my experiences: [Personal CV](https://drive.google.com/file/d/1LLWQ8t9Ow30wMobHlfN4qAdzi3bgRLsD/view?usp=drive_link)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>Tools and Languages </h2>
+<span><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=git-darkmoon&&theme=midnight-purple&hide_border=true&show_icons=true&locale=en&layout=compact" alt="git-darkmoon" /></span>
+
+<h2>Github Stats</h2>
+<div>
+<span><img align="center" src="https://streak-stats.demolab.com?user=Git-Darkmoon&theme=midnight-purple&hide_border=true&card_width=500)](https://git.io/streak-stats" alt="git-darkmoon" /></span>
+<span><img align="center" src="https://github-readme-stats.vercel.app/api?username=git-darkmoon&hide_border=true&theme=midnight-purple&show_icons=true" alt="git-darkmoon" /></span>
+  
+</div>
+<!-- ![Git-Darkmoon's github stats](https://github-readme-stats.vercel.app/api?username=git-darkmoon&theme=midnight-purple&show_icons=true) -->
