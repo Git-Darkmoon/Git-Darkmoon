@@ -7,13 +7,14 @@
 - 🌱 I’m currently learning **React Query and React Router.**
 - 📄 Know about my experiences: [Personal CV](https://drive.google.com/file/d/1LLWQ8t9Ow30wMobHlfN4qAdzi3bgRLsD/view?usp=drive_link)
 
-<h2>Tools and Languages </h2>
-<span><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=git-darkmoon&&theme=midnight-purple&hide_border=true&show_icons=true&locale=en&layout=compact" alt="git-darkmoon" /></span>
-
-<h2>Github Stats</h2>
+<h2>Stats and Languages </h2>
 <div>
-<span><img align="center" src="https://streak-stats.demolab.com?user=Git-Darkmoon&theme=midnight-purple&hide_border=true&card_width=500)](https://git.io/streak-stats" alt="git-darkmoon" /></span>
+  <span align="right"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=git-darkmoon&&theme=midnight-purple&hide_border=true&show_icons=true&locale=en&layout=compact" alt="git-darkmoon" /></span>
+<span align="center"><img align="center" src="https://streak-stats.demolab.com?user=Git-Darkmoon&theme=midnight-purple&hide_border=true&card_width=400)](https://git.io/streak-stats" alt="git-darkmoon" /></span>
 
   
 </div>
+
+
+
 <!-- ![Git-Darkmoon's github stats](https://github-readme-stats.vercel.app/api?username=git-darkmoon&theme=midnight-purple&show_icons=true) -->
