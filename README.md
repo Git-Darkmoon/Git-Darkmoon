@@ -1,6 +1,8 @@
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=24&pause=1000&color=9F6EF7&center=true&width=475&lines=React+Web+Developer;Always+Learning+New+Things;%2B4+Years+of+Coding;And+a+lot+more+%3A)" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&size=42&duration=3250&pause=1000&color=9745F5&center=true&vCenter=true&width=600&lines=React+Web+Developer;Always+Learning+New+Things;%2B4+Years+Of+Coding;A+lot+more+%3A)" alt="Typing SVG" /></a>
 </p>
+
+
 
 <p align="center">
 <img src="https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white" alt="MS badge" >
