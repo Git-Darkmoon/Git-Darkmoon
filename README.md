@@ -48,7 +48,7 @@
   <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="StackOverFlow badge" >
 </p>
 
-- 📄 Know about my experiences: [Personal CV](https://drive.google.com/file/d/1LLWQ8t9Ow30wMobHlfN4qAdzi3bgRLsD/view?usp=drive_link)
+- 📄 Know about my experience: [Personal CV](https://drive.google.com/file/d/1LLWQ8t9Ow30wMobHlfN4qAdzi3bgRLsD/view?usp=drive_link)
 
 <br>
 
