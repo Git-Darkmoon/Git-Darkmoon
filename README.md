@@ -1,12 +1,11 @@
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?  font=Poppins&size=42&duration=3250&pause=1000&color=9745F5&center=true&vCenter=true&width=600&lines=React+Web+Developer;Always+Learning+New+Things;%2B4+Years+Of+Coding;A+lot+more+%3A)" alt="Typing SVG" /></a>
+<p align="left">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=954EF5&vCenter=true&random=false&width=500&height=50&lines=React+Web+Developer;%2B5+Years+Coding;Always+learning+new+things" alt="Typing SVG" /></a>
 </p>
 
-
-<h2 align="center">
-  Tech Stack 💻
-</h2>
-<p align="center">
+<h3 align="left">
+  Technologies
+</h3>
+<p align="left">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML badge" >
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS badge" >
   <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" alt="SASS badge" >
@@ -24,10 +23,10 @@
 </p>
 
 
-<h2 align="center">
-    Tools 🎨
-</h2>
-<p align="center">
+<h3 align="left">
+    Tools
+</h3>
+<p align="left">
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSC badge" >
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Github badge" >
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git badge" >
@@ -40,15 +39,6 @@
 
 <br>
 
-- 🌱 I’m currently learning using:
-  
-<p align="center">
-  <img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white" alt="Udemy badge" >
-  <img src="https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white" alt="edX badge" >
-  <img src="https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white" alt="Coursera badge" >
-  <img src="https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white" alt="MDN badge" >
-  <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="StackOverFlow badge" >
-</p>
 
 - 📄 Know about my experience: [Personal CV](https://drive.google.com/file/d/1LLWQ8t9Ow30wMobHlfN4qAdzi3bgRLsD/view?usp=drive_link)
 
