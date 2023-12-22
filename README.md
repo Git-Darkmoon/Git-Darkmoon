@@ -42,10 +42,10 @@
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman badge" >
 </p>
 
-<h6>
+<h5>
  📄 Learn more about my experience: <a href="https://drive.google.com/file/d/1LLWQ8t9Ow30wMobHlfN4qAdzi3bgRLsD/view?usp=drive_link">Personal CV </a>
   
-</h6>
+</h5>
 
 <br>
 
