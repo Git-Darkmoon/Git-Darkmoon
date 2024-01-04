@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white" alt="React Router badge" >
   <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white" alt="Redux badge" >
   <img src="https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white" alt="NextJS badge" >
-  <img       src="https://camo.githubusercontent.com/b46e59b09c063a31380646688a68018381767a7a206547c93f896df4643671e9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d7973716c2d2532333030303030662e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465" alt="MySQL badge" >
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white" alt="MySQL badge" >
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL badge" >
 </p>
 
@@ -43,7 +43,7 @@
 </p>
 
 <h5>
- 📄 Learn more about my experience: <a href="https://drive.google.com/file/d/1LLWQ8t9Ow30wMobHlfN4qAdzi3bgRLsD/view?usp=drive_link">Personal CV </a>
+ 📄 Learn more about my experience: <a href="https://drive.google.com/file/d/1Jvag82I2AkeTRRgkP0rat46j--9epjtm/view?usp=sharing">Personal CV </a>
   
 </h5>
 
