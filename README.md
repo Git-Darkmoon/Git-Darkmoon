@@ -43,7 +43,7 @@
 </p>
 
 <h5>
- 📄 Learn more about my experience: <a href="https://drive.google.com/file/d/1Jvag82I2AkeTRRgkP0rat46j--9epjtm/view?usp=sharing">Personal CV </a>
+ 📄 Learn more about my experience: <a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/file/d/1Jvag82I2AkeTRRgkP0rat46j--9epjtm/view?usp=sharing">Personal CV </a>
   
 </h5>
 
