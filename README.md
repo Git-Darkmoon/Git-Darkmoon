@@ -42,6 +42,9 @@
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman badge" >
 </p>
 
+<h4>
+  💼 Take a look to my work: <a target="_blank" rel="noopener noreferrer" href="https://darkmoon.vercel.app/">Portfolio</a>
+</h4>
 <h5>
  📄 Learn more about my experience: <a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/file/d/1Jvag82I2AkeTRRgkP0rat46j--9epjtm/view?usp=sharing">Personal CV </a>
   
