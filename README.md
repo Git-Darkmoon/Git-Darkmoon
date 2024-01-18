@@ -31,3 +31,5 @@
 <p align="left">
   <img src="https://streak-stats.demolab.com?user=Git-Darkmoon&theme=sunset-gradient&hide_border=true&background=45%985ad6%f7cc68" alt="GitHub Streak" />
 </p>
+
+  <img src="https://komarev.com/ghpvc/?username=Git-Darkmoon&color=b26afb" alt="GitHub Profile Views Counter" />
