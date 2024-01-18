@@ -7,7 +7,7 @@
 </h3>
 
 <p align="left">  
-  <img src="https://skillicons.dev/icons?i=html,css,sass,styledcomponents,bootstrap,tailwind,js,ts,astro,react,redux,nextjs,mysql,postgres&perline=6&theme=dark" alt="PostgreSQL badge" >
+  <img src="https://skillicons.dev/icons?i=html,css,sass,styledcomponents,bootstrap,tailwind,js,ts,astro,react,redux,nextjs,mysql,postgres&perline=7&theme=dark" alt="PostgreSQL badge" >
 </p>
 
 
@@ -19,12 +19,12 @@
 </p>
 
 <h4>
-  💼 Take a look to my work: <a target="_blank" rel="noopener noreferrer" href="https://darkmoon.vercel.app/">Portfolio</a>
+  💼 Take a look to my work: <a target="_blank" rel="noopener noreferrer" href="https://darkmoon.vercel.app/">Portfolio website</a>
 </h4>
-<h5>
+<h4>
  📄 Learn more about my experience: <a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/file/d/1Jvag82I2AkeTRRgkP0rat46j--9epjtm/view?usp=sharing">Personal CV </a>
   
-</h5>
+</h4>
 
 <br>
 
