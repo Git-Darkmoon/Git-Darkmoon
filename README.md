@@ -29,5 +29,5 @@
 <br>
 
 <p align="left">
-  <img src="https://streak-stats.demolab.com?user=Git-Darkmoon&theme=sunset-gradient&hide_border=true&background=45%0D324D%7F5A83" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Git-Darkmoon&theme=sunset-gradient&hide_border=true&background=45%985ad6%f7cc68" alt="GitHub Streak" />
 </p>
