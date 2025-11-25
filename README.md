@@ -19,7 +19,7 @@
 </p>
 
 <h4>
-  💼 Take a look to my work: <a target="_blank" rel="noopener noreferrer" href="https://namayz.comPortfolio website</a>
+  💼 Take a look to my work: <a target="_blank" rel="noopener noreferrer" href="https://namayz.com">Portfolio website</a>
 </h4>
 <h4>
  📄 Learn more about my experience: <a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/file/d/1Jvag82I2AkeTRRgkP0rat46j--9epjtm/view?usp=sharing">Personal CV </a>
